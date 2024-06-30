@@ -1,0 +1,7 @@
+namespace Qubit
+{
+    class Qubit
+    {
+
+    }
+}
